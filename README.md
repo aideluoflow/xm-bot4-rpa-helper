@@ -31,7 +31,7 @@
   <br/><br/>
 
   <h4>🖥️ 功能模块二：AI 智能回复设置</h4>
-  <img src="https://github.com/user-attachments/assets/e0b33e4c-1635-431a-b055-96202830d6e8" width="85%" alt="AI智能回复设置" />
+  <img src="https://github.com/user-attachments/assets/685977bb-54bf-400d-9551-17786d3e31d2" width="85%" alt="AI智能回复设置" />
 
   <br/><br/>
 
