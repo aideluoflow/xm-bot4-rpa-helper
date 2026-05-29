@@ -41,9 +41,12 @@
   <br/><br/>
 
   <h4>🖥️ 功能模块四：朋友圈智能管理</h4>
-  <img src="https://github.com/user-attachments/assets/a109e9ef-9a2f-43d1-9b8a-81de944ae920" width="85%" alt="朋友圈智能管理01" />
+  <img src="https://github.com/user-attachments/assets/5417d21f-f0ea-4073-a2c5-096eeb4db8bc" width="85%" alt="朋友圈智能管理01" />
+  
   <br/><br/>
-
+  <img src="https://github.com/user-attachments/assets/8cab62b1-7326-4c2a-9338-3d8fb7ff2da3" width="85%" alt="朋友圈智能管理02" />
+  
+  <br/><br/>
 </div>
 
 ---
